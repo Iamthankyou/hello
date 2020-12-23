@@ -7,7 +7,7 @@
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-Hi, I'm Le Quang Duy, a Software Fresher from Vietnam, currently, I'm learning in University of Transport and Communications. Beside's programming, I enjoy reading and playing guitar,piano,flute,workout,..etc.
+Hi, I'm Le Quang Duy, a Software Fresher from Vietnam, currently, I'm learning in University of Transport and Communications. Beside's programming, I enjoy reading and playing guitar, piano, flute, workout,..etc.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
